@@ -1,0 +1,12 @@
+.body {
+  &--test{
+    background: black;
+  }
+  color: #fff;
+}
+
+.new{
+  display: flex;
+  transform: translate(-50%, -50%);
+  width: 100px;
+}
